@@ -1,0 +1,24 @@
+{
+  "name": "herewegotea",
+  "version": "1.0.0",
+  "description": "That my demonstration of basic app :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sidzio96/herewegotea.git"
+  },
+  "dependencies": {
+    "herewegotea": "1.0.0",
+    "teaispower": "1.0.0",
+    "insanetea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidzio96/herewegotea/issues"
+  },
+  "homepage": "https://github.com/Sidzio96/herewegotea#readme"
+}
